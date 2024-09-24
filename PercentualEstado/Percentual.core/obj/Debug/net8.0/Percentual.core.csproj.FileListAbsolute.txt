@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\bin\Debug\net8.0\Percentual.core.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\bin\Debug\net8.0\Percentual.core.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\bin\Debug\net8.0\Percentual.core.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\bin\Debug\net8.0\Percentual.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\bin\Debug\net8.0\Percentual.core.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\refint\Percentual.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\Percentual.core.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\PercentualEstado\Percentual.core\obj\Debug\net8.0\ref\Percentual.core.dll

@@ -1,0 +1,14 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\bin\Debug\net8.0\String.core.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\bin\Debug\net8.0\String.core.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\bin\Debug\net8.0\String.core.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\bin\Debug\net8.0\String.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\bin\Debug\net8.0\String.core.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\refint\String.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\String.core.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\String\String.core\obj\Debug\net8.0\ref\String.core.dll

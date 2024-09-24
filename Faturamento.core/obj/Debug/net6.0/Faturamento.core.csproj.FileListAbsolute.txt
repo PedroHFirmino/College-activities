@@ -1,0 +1,17 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\bin\Debug\net6.0\Faturamento.core.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\bin\Debug\net6.0\Faturamento.core.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\bin\Debug\net6.0\Faturamento.core.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\bin\Debug\net6.0\Faturamento.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\bin\Debug\net6.0\Faturamento.core.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturame.787B0569.Up2Date
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\refint\Faturamento.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\Faturamento.core.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Teste parte 2\Faturamento.core\obj\Debug\net6.0\ref\Faturamento.core.dll
