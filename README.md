@@ -1,13 +1,12 @@
-Descrição do Projeto
+# College Activities
+This is a repository with college activities using C#
 
-Consiste em realizar soma;
+1- Simple Sum: Performs the sum of two integers provided by the user.
 
-Cálculo e validação Fibonacci;
+2- Fibonacci Validation: Checks whether a number belongs to the Fibonacci sequence.
 
-Processa um vetor contendo os valores de faturamento diário de uma distribuidora. O programa identifica o menor e o maior valor de faturamento ocorridos durante o mês, calcula a média mensal e determina quantos dias tiveram faturamento superior a essa média;
+3- Daily Revenue Analysis: Processes an array containing the daily revenue values of a distributor. The program identifies the lowest and highest revenue values that occurred during the month, calculates the monthly average, and determines how many days had revenue above that average.
 
-Cálculo de percentual de faturamento de cada estado em relação ao faturamento total;
+4- Revenue Percentage by State: Calculates the revenue percentage of each state in relation to the total revenue.
 
-Programa que inverte caracteres de uma;
-
-C#, .Net e Newtonsoft.json
+5- String Reversal: Reverses the characters of a string provided by the user.
